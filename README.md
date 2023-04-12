@@ -7,3 +7,4 @@ The notebooks are in Spanish.
 1. [Functions, series and graphs.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_Sesi%C3%B3n_1.ipynb)
 2. [Solutions of equations.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_2.ipynb)
 3. [Numerical Differentiation and Interpolation.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_3.ipynb)
+4. [Numerical Integration.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_4.ipynb)
