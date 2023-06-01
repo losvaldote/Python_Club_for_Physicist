@@ -15,3 +15,4 @@ The notebooks are in Spanish.
 9. [Particle orbits in a Schwarzschild type space-time.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_9.ipynb)
 10. [Simulation of a spring object system immersed in a fluid.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_10%5BE%5D.ipynb)
 11. [GUI development with python](https://github.com/losvaldote/Python_Club_for_Physicist/tree/main/Desarrollo_de_GUI)
+12. [Applications on Particle Physics](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n12.ipynb)
