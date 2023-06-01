@@ -11,3 +11,5 @@ The notebooks are in Spanish.
 5. [Differential Equations I.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_5.ipynb)
 6. [Differential Equations II.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_6.ipynb)
 7. [Monte Carlo.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_7_editado.ipynb)
+8. [TBA.]
+9. [Particle orbits in a Schwarzschild type space-time.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_9.ipynb)
