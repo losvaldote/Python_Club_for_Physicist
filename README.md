@@ -10,3 +10,4 @@ The notebooks are in Spanish.
 4. [Numerical Integration.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_4.ipynb)
 5. [Differential Equations I.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_5.ipynb)
 6. [Differential Equations II.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_6.ipynb)
+7. [Monte Carlo.](https://github.com/losvaldote/Python_Club_for_Physicist/blob/main/Copia_de_PCP_Sesi%C3%B3n_7_editado.ipynb)
